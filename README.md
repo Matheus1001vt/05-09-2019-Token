@@ -13,3 +13,4 @@ Crie na models uma class **Professor** com os atributos:
 **Fase 2**
 
 Assim como foi feito anteriormente com o aluno, faça os serializers e viewsets para o professor.
+
